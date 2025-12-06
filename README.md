@@ -14,9 +14,13 @@ Features
 Technologies Used
 
 -- HTML5 for structure
--- CSS3 for styling and layout
+
+-- CSS3 and tailwind for styling and layout
+
 -- JavaScript (ES6+) for logic, DOM updates, and data handling
+
 -- Fetch API for retrieving user data
+
 
 How It Works
 
