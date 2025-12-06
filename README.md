@@ -25,7 +25,11 @@ Technologies Used
 How It Works
 
 -> The application fetches a list of users from a public API.
+
 -> The data is displayed in a structured, scrollable container.
+
 -> As the user types into the search bar, the displayed list updates instantly.
+
 -> The search checks against multiple fields such as name, username, or email depending on the dataset.
+
 -> The filtered results appear without refreshing the page.
